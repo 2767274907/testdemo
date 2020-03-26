@@ -9,5 +9,6 @@ package com.example.testdemo;
 public class lmf {
 
     public void tes(){System.out.println("00000");
+        System.out.println("nihoas");
     }
 }
